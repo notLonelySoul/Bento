@@ -156,13 +156,13 @@ body {
 }
 
 #time {
-  font-size: var(--fg-primary);
+  font-size: 12vh;
   font-weight: bolder;
   color: var(--fg);
 }
 
 #date {
-  font-size: var(--fg-date);
+  font-size: 8vh;
   font-weight: bold;
   color: var(--fg);
 }
